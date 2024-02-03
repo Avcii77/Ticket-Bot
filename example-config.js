@@ -1,8 +1,8 @@
 const { resolve } = require("path");
 
 module.exports = {
-  TOKEN: "your token",
-  LOGS: "channel for error logs",
+  TOKEN: "MTIwMzI4OTc0Mjc3NTY4NTIwMA.G5f9EX.jpVrZYiSrO1aWnFsP49EuSq-DgftwNI1aowJ0A",
+  LOGS: "1203296415770742867",
   MONGO_DB: "your mongodb uri",
 
   LANGUAGE: {
